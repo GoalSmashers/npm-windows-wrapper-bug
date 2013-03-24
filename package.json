@@ -1,0 +1,11 @@
+{
+  "name": "npm-windows-bug",
+  "version": "1.0.0",
+  "description": "Windows NPM bug",
+  "main": "index.js",
+  "repository": "",
+  "author": "",
+  "dependencies": {
+    "clean-css": "0.10.x"
+  }
+}
